@@ -1,6 +1,6 @@
 # React-Three-Fiber Vite Boilerplate
 
-This is my boilerplate for React projects with R3F and Typescript.
+This is my development environment for React projects with R3F and Typescript.
 
 ## Getting started
 
@@ -22,6 +22,8 @@ This is my boilerplate for React projects with R3F and Typescript.
 - **React-Three-Fiber**: React renderer for Three.js
 - **Vite**: Build tool and development server
 - **Vitest**: Vite-native testing framework
+- **React Testing Library**: Testing Library for React components
+- **React Three Test Renderer**: React renderer for testing R3F components
 
 ## Licence
 
